@@ -4,8 +4,13 @@ __pycache__/
 *$py.class
 
 #system
-.DS_Store 
+.DS_Store
 .vs_code/
+.claude/
+
+# Large data files (regenerate locally by running notebooks)
+**/0_combined_df_*.csv
+**/1_fluo_binary_*.csv
 
 #output
 *.pdf
