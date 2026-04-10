@@ -9,7 +9,12 @@ from skimage.morphology import binary_closing, disk
 df = pd.read_csv('1_fluo_binary_rhlA_rep2.csv')
 
 # === Define base directory and positions ===
-base_dir = '../../../../../../Image_Data/Figure2/2A_mutants/2A_rhlA/replicate_2'
+# set path to BioImageArchive data directory:
+data_archive_path = '/Volumes/ScientificData/Users/Giulia(botgiu00)/Papers/bottacin2026/BioImageArchive/'
+
+# input and output paths relative to BioImageArchive location
+base_dir = os.path.join(data_archive_path, 'ToleranceAssay/2_DrhlA/replicate_2')
+
 positions = ['pos18', 'pos19', 'pos20', 'pos21', 'pos22', 'pos23', 'pos24', 'pos25', 'pos26', 'pos27']
 closing_radius = 7
 structuring_element = disk(closing_radius)
