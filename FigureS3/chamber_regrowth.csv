@@ -1,0 +1,187 @@
+Coculture,Device,Chamber,Survival
+S. aureus,1,pos0,no 
+S. aureus,1,pos1,no 
+S. aureus,1,pos2,no 
+S. aureus,1,pos3,no 
+S. aureus,1,pos4,no 
+S. aureus,1,pos5,no 
+S. aureus,1,pos6,no 
+S. aureus,1,pos7,no 
+S. aureus,1,pos8,yes
+S. aureus,1,pos9,no 
+S. aureus,1,pos10,no 
+S. aureus,1,pos11,no 
+S. aureus,1,pos12,no 
+S. aureus,1,pos13,no 
+S. aureus,1,pos14,no 
+S. aureus,1,pos15,no 
+S. aureus,1,pos16,no 
+S. aureus,1,pos17,no 
+S. aureus,1,pos18,no 
+S. aureus,1,pos19,no 
+S. aureus,1,pos20,no 
+S. aureus,1,pos21,no 
+S. aureus,1,pos22,no 
+S. aureus,1,pos23,no 
+S. aureus,1,pos24,no 
+S. aureus,1,pos25,no 
+S. aureus,1,pos26,yes
+S. aureus,1,pos27,no 
+S. aureus,1,pos28,no 
+S. aureus,1,pos29,no 
+S. aureus,1,pos30,no 
+S. aureus,1,pos31,no 
+S. aureus,1,pos32,no 
+S. aureus,1,pos33,no 
+S. aureus,1,pos34,no 
+S. aureus,2,pos0,no 
+S. aureus,2,pos1,no 
+S. aureus,2,pos2,no 
+S. aureus,2,pos3,no 
+S. aureus,2,pos4,no 
+S. aureus,2,pos5,no 
+S. aureus,2,pos6,no 
+S. aureus,2,pos7,no 
+S. aureus,2,pos8,no 
+S. aureus,2,pos9,no 
+S. aureus,2,pos10,no 
+S. aureus,2,pos11,no 
+S. aureus,2,pos12,no 
+S. aureus,2,pos13,no 
+S. aureus,2,pos14,no 
+S. aureus,2,pos15,no 
+S. aureus,2,pos16,no 
+S. aureus,2,pos17,no 
+S. aureus,2,pos18,no 
+S. aureus,2,pos19,no 
+S. aureus,2,pos20,no 
+S. aureus,2,pos21,no 
+S. aureus,2,pos22,no 
+S. aureus,2,pos23,yes
+S. aureus,2,pos24,no 
+S. aureus,2,pos25,no 
+S. aureus,2,pos26,no 
+S. aureus,2,pos27,no 
+S. aureus,2,pos28,no 
+S. aureus,2,pos29,no 
+S. aureus,2,pos30,no 
+S. aureus,2,pos31,no 
+S. aureus,2,pos32,no 
+WT,1,pos0,yes
+WT,1,pos2,yes
+WT,1,pos3,yes
+WT,1,pos6,yes
+WT,1,pos7,yes
+WT,1,pos8,yes
+WT,1,pos9,yes
+WT,1,pos11,yes
+WT,1,pos12,yes
+WT,1,pos14,yes
+WT,2,pos13,yes
+WT,2,pos14,yes
+WT,2,pos15,yes
+WT,2,pos16,yes
+WT,2,pos17,no 
+WT,2,pos18,yes
+WT,2,pos19,yes
+WT,2,pos20,no 
+WT,2,pos21,no 
+WT,3,pos10,yes
+WT,3,pos12,yes
+WT,3,pos14,yes
+WT,3,pos15,yes
+WT,3,pos17,yes
+WT,3,pos2,yes
+WT,3,pos3,yes
+WT,3,pos4,yes
+WT,3,pos6,yes
+WT,3,pos8,yes
+∆rhlA,1,pos0,yes
+∆rhlA,1,pos1,yes
+∆rhlA,1,pos2,yes
+∆rhlA,1,pos3,yes
+∆rhlA,1,pos4,yes
+∆rhlA,1,pos5,yes
+∆rhlA,1,pos6,yes
+∆rhlA,1,pos7,yes
+∆rhlA,1,pos8,yes
+∆rhlA,1,pos9,yes
+∆rhlA,2,pos18,yes
+∆rhlA,2,pos19,yes
+∆rhlA,2,pos20,yes
+∆rhlA,2,pos21,yes
+∆rhlA,2,pos22,yes
+∆rhlA,2,pos23,yes
+∆rhlA,2,pos24,yes
+∆rhlA,2,pos25,yes
+∆rhlA,2,pos26,yes
+∆rhlA,2,pos27,yes
+∆rhlA,3,pos20,yes
+∆rhlA,3,pos21,yes
+∆rhlA,3,pos22,yes
+∆rhlA,3,pos23,yes
+∆rhlA,3,pos24,yes
+∆rhlA,3,pos25,yes
+∆rhlA,3,pos27,yes
+∆rhlA,3,pos28,yes
+∆rhlA,3,pos29,yes
+∆pqsL,1,pos15,no 
+∆pqsL,1,pos16,no 
+∆pqsL,1,pos17,no 
+∆pqsL,1,pos18,no 
+∆pqsL,1,pos19,no 
+∆pqsL,1,pos20,no 
+∆pqsL,1,pos21,no 
+∆pqsL,1,pos22,no 
+∆pqsL,1,pos23,no 
+∆pqsL,1,pos24,no 
+∆pqsL,2,pos0,no 
+∆pqsL,2,pos1,no 
+∆pqsL,2,pos2,no 
+∆pqsL,2,pos3,no 
+∆pqsL,2,pos4,no 
+∆pqsL,2,pos5,no 
+∆pqsL,2,pos6,no 
+∆pqsL,2,pos7,no 
+∆pqsL,2,pos8,no 
+∆pqsL,2,pos9,yes
+∆pqsL,3,pos0,no 
+∆pqsL,3,pos1,no 
+∆pqsL,3,pos2,no 
+∆pqsL,3,pos3,no 
+∆pqsL,3,pos4,no 
+∆pqsL,3,pos5,no 
+∆pqsL,3,pos6,no 
+∆pqsL,3,pos7,no 
+∆pqsL,3,pos8,no 
+∆pqsL,3,pos9,no 
+∆rhlA ∆pqsL,1,pos25,no 
+∆rhlA ∆pqsL,1,pos26,no 
+∆rhlA ∆pqsL,1,pos27,no 
+∆rhlA ∆pqsL,1,pos28,no 
+∆rhlA ∆pqsL,1,pos29,no 
+∆rhlA ∆pqsL,1,pos30,no 
+∆rhlA ∆pqsL,1,pos31,no 
+∆rhlA ∆pqsL,1,pos32,no 
+∆rhlA ∆pqsL,1,pos33,no 
+∆rhlA ∆pqsL,1,pos34,no 
+∆rhlA ∆pqsL,2,pos0,no 
+∆rhlA ∆pqsL,2,pos1,no 
+∆rhlA ∆pqsL,2,pos2,no 
+∆rhlA ∆pqsL,2,pos3,no 
+∆rhlA ∆pqsL,2,pos4,no 
+∆rhlA ∆pqsL,2,pos5,no 
+∆rhlA ∆pqsL,2,pos6,yes
+∆rhlA ∆pqsL,2,pos7,no 
+∆rhlA ∆pqsL,2,pos8,no 
+∆rhlA ∆pqsL,2,pos9,no 
+∆rhlA ∆pqsL,3,pos11,no 
+∆rhlA ∆pqsL,3,pos12,no 
+∆rhlA ∆pqsL,3,pos13,no 
+∆rhlA ∆pqsL,3,pos14,yes
+∆rhlA ∆pqsL,3,pos15,no 
+∆rhlA ∆pqsL,3,pos16,no 
+∆rhlA ∆pqsL,3,pos17,no 
+∆rhlA ∆pqsL,3,pos18,no 
+∆rhlA ∆pqsL,3,pos19,no 
+∆rhlA ∆pqsL,3,pos20,no 

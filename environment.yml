@@ -12,6 +12,7 @@ dependencies:
   - scipy>=1.14
   - scikit-learn>=1.7
   - statsmodels>=0.14
+  - sympy=1.14
 
   # Plotting
   - matplotlib>=3.9

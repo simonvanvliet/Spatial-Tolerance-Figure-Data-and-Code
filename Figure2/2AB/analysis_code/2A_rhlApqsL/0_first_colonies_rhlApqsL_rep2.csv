@@ -1,0 +1,11 @@
+colony_id,x,y,frame,position,replicate,hours,x_um,y_um,y_bin,x_bin,regrowth
+0,,,,pos0,replicate2,,,,,,no
+0,,,,pos1,replicate2,,,,,,no
+0,,,,pos2,replicate2,,,,,,no
+0,,,,pos3,replicate2,,,,,,no
+0,,,,pos4,replicate2,,,,,,no
+0,,,,pos5,replicate2,,,,,,no
+1,322.2512062,440.600491,20,pos6,replicate2,1.666666667,20.94632841,28.63903191,"(25.0, 30.0]","(20.0, 25.0]",yes
+0,,,,pos7,replicate2,,,,,,no
+0,,,,pos8,replicate2,,,,,,no
+0,,,,pos9,replicate2,,,,,,no
