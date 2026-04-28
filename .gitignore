@@ -12,6 +12,14 @@ __pycache__/
 **/0_combined_df_*.csv
 **/1_fluo_binary_*.csv
 
+
+*_legacy_*
+
+# talk figure code
+
+talks/
+*_talk_*
+
 #output
 *.pdf
 
