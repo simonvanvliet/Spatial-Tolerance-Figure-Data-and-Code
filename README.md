@@ -13,7 +13,7 @@ Code and analysis by Giulia Bottacin and Simon van Vliet.
 
 - Preprint: [bioRxiv](https://doi.org/10.64898/2026.02.04.703747)
 - A complementary repository with code of model and parameter inference is available [GitHub](https://github.com/simonvanvliet/SpatialToleranceModel)
-- Raw data is available on BioImageArchive.
+- Raw data is available on [BioImage Archive](https://doi.org/10.6019/S-BIAD3227)
 
 ## Installation
 
@@ -33,7 +33,7 @@ conda activate spatial_tolerance_env
 
 ## Overview
 
-Repository contains all figure source data files and Jupyter notebooks needed to reproduce figures from paper. In addition, all analysis code is provided to re-process output of image segmentation pipeline to recreate figure source data files. Rerunning this analysis requires access to raw data as provided on BioImageArchive
+Repository contains all figure source data files and Jupyter notebooks needed to reproduce figures from paper. In addition, all analysis code is provided to re-process output of image segmentation pipeline to recreate figure source data files. Rerunning this analysis requires access to raw data as provided on [BioImage Archive](https://doi.org/10.6019/S-BIAD3227)
 
 Data and analysis code organized into subfolders by figure and panel. There are two types of workflows:
 
@@ -45,17 +45,17 @@ panel_name/
 └── figure_code/        # CSV data → PDF figures
 ```
 
-The analysis_code subfolder contains notebooks used to process segmented images to create processed data files. Code is provided for reference only, running it requires downloading the raw data files from the BioImageArchive. Output of scripts is stored in figure_code subfolder.
+The analysis_code subfolder contains notebooks used to process segmented images to create processed data files. Code is provided for reference only, running it requires downloading the raw data files from the BioImage Archive. Output of final processing scripts is stored in figure_code subfolder.
 
-The figure_code contains processed data files (Figure source data) and code needed to replicate figures, these can be run without downloading additional data
+The figure_code contains processed data files (Figure source data) and code needed to replicate figures, these can be run without downloading additional data files.
 
-Minimal code is provided to reproduce figures containing model predictions and parameter inferences, for the full code is available on a [second GitHub repository](https://github.com/simonvanvliet/SpatialToleranceModel)
+Minimal code is provided to reproduce figures containing model predictions and parameter inferences, the full code is available in a [second GitHub repository](https://github.com/simonvanvliet/SpatialToleranceModel).
 
 ### Direct Data Plotting
 
 ```
 panel_name/
-├── data.xlsx          # Experimental data
+├── data.csv          # Experimental data
 └── notebook.ipynb     # Data → PDF figure
 ```
 
